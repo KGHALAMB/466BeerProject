@@ -1,6 +1,6 @@
 
 def categorizeBeers(x):
-    if x > 4.5:
+    if x > 4.25:
         return "Good"
     elif x > 3:
         return "Okay"
