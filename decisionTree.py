@@ -1,12 +1,8 @@
 import pandas as pd
 import matplotlib.pyplot as plt
-import numpy as np
 from sklearn.model_selection import train_test_split
 from sklearn.tree import DecisionTreeClassifier
 from sklearn.metrics import accuracy_score
-from sklearn import tree
-from sklearn.neighbors import KNeighborsRegressor
-from sklearn.linear_model import LinearRegression
 from sklearn import metrics
 import cleanData
 from sklearn.tree import export_graphviz
@@ -17,27 +13,40 @@ import pydotplus
 
 df = pd.read_csv('beer.csv')
 
-df = cleanData.cleanAllData(df)
-print(df.head())
+df = cleanData.cleanAllData(df) # uses cleanData script to modify the csv to work for a decision tree
 
 print(df.good_beer.value_counts())
 
-attributes = ['ABV', 'avg_IBU', 'Astringency', 'Body', 'Alcohol', 'Bitter', 'Sweet', 'Sour', 'Salty', 'Fruits', 'Hoppy', 'Spices', 'Malty']
+attributes = [
+    'ABV', 
+    'avg_IBU', 
+    'Astringency', 
+    'Body', 
+    'Alcohol', 
+    'Bitter', 
+    'Sweet', 
+    'Sour', 
+    'Salty', 
+    'Fruits', 
+    'Hoppy', 
+    'Spices', 
+    'Malty'
+    ]  # These are the chosen Beer attributes that we decided to use for the decision tree
 
-#df = df[df['number_of_reviews'] > 10]
+X = df[attributes] # X data is the attributes
+y = df['good_beer'] # Y data is the overall rating of the beer
 
-X = df[attributes]
-y = df['good_beer']
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=5) # doing an 80 / 20 test Training split
 
-X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=5)
-
-clf = DecisionTreeClassifier()
-clf = clf.fit(X_train, y_train)
+clf = DecisionTreeClassifier() 
+clf = clf.fit(X_train, y_train) # fit training data to the decision tree object
 
 y_pred = clf.predict(X_test)
-print("Accuracy:",metrics.accuracy_score(y_test, y_pred))
+print("Accuracy:",metrics.accuracy_score(y_test, y_pred)) # getting metrics for the model
+print("Matrix\n:",metrics.confusion_matrix(y_test, y_pred))
 
 
+# creating png image representation of the decision tree
 dot_data = StringIO()
 export_graphviz(clf, out_file=dot_data,  
                 filled=True, rounded=True,
