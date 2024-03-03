@@ -1,0 +1,756 @@
+Beer Name,Brewery Name,Type,Their Rating,Global Rating,ABV,IBU,Total
+'Bout Damn Time,4 Noses Brewing Company,4.5,3.88,7.1,68,1
+(512) IPA,(512) Brewing Company,3.75,3.72,7,65,1
+13 IPA,Crystal Springs Brewing Company,4.75,3.74,7.2,87,3
+1319181 (Dry-hopped Amber),Crystal Springs Brewing Company,3.5,3.77,7.2,45,1
+1554,New Belgium Brewing Company,3.75,3.69,6,21,1
+1771 IPA,The Post Brewing Company,3.75,3.72,7.3,N/A,1
+18 Road IPA,Copper Club Brewing Company,3.75,3.75,6.8,64,1
+25th Anniversary Double Hazy IPA,Great Divide Brewing Company,4.25,3.93,8,N/A,1
+2x4 DIPA,Melvin Brewing,4,4.09,9.9,100,1
+2XIPA,Southern Tier Brewing Company,3.25,3.79,8.2,80,1
+3.8 Miles,WeldWerks Brewing Co.,4.5,4.19,8.4,N/A,1
+300 Days Tangerine IPA,Pikes Peak Brewing Co.,3.25,3.56,5.7,N/A,1
+3C IPA,Triple C Brewing Company,3.25,3.74,6.2,70,1
+40 Days & 40 Nights,Lazarus Brewing Company,3.5,3.83,7.5,N/A,1
+420 Extra Pale Ale,SweetWater Brewing Company,3.5,3.61,5.7,39,1
+5 Barrel Pale Ale,Odell Brewing Co.,3.75,3.67,5.2,36,1
+5030 Double IPA,Berthoud Brewing Company,3.5,3.82,8.8,65,1
+5th Anniversary DDH,Outer Range Brewing Rockies/Alps,5,4.32,7.8,N/A,1
+60 Minute IPA,Dogfish Head Craft Brewery,3.5,3.84,6,60,1
+7K IPA,Santa Fe Brewing Company,3.5,3.81,7,70,1
+90 Shilling,Odell Brewing Co.,3.75,3.7,5.3,27,1
+A Little Sumpin' Sumpin' Ale,Lagunitas Brewing Company,3.75,3.78,7.5,64,1
+A Many Splendored Thing,WeldWerks Brewing Co.,4.25,4.16,8,N/A,1
+A Night on Ponce IPA,Three Taverns Brewery,3.5,3.82,7.5,69,1
+A Year In the Making,Trustworthy Brewing Co.,3.25,3.42,4.9,40,1
+Aaalterrr Ego,Tree House Brewing Company,4.75,4.4,6.8,N/A,1
+Acceleration,Gravity Brewing,3,3.78,9.8,98,1
+Admiral Abyss,Odd13 Brewing,4.25,3.76,7,N/A,1
+Ales For A.L.S. IPA,Faction Brewing,3.5,3.81,6.8,60,1
+Alienator,Gravity Brewing,4,3.92,8.7,19,1
+All Day IPA,Founders Brewing Co.,3.75,3.69,4.7,42,1
+ALLEGEDLY (Ferda),Uhl’s Brewing Co,4,3.91,6.7,5,1
+Alpha Twins,Odd13 Brewing,4.25,4.15,8.25,N/A,1
+Alphadelic,Hop Valley Brewing Company,3.75,3.72,7.2,90,1
+Alpine Dreams,Outer Range Brewing Rockies/Alps,3.5,4.12,6.6,N/A,1
+Alpine Valley,Outer Range Brewing Rockies/Alps,4.25,4.04,7.5,N/A,1
+Altbier,Prost Brewing Co. & Biergarten,3.25,3.49,5,37,1
+Alter Ego,Tree House Brewing Company,4.75,4.4,6.8,72,1
+Amber,Alaskan Brewing Co.,3.75,3.61,5.3,18,1
+Amber,Colorado Native,3,3.45,5.5,38,1
+Amber Ale,Kirkland Signature,2,2.93,5.7,N/A,1
+Amber’s Lager,Irwin Brewing Company,4.25,3.72,5.5,31,1
+American Pale Ale,Kirkland Signature,2.5,3.06,5.4,37,2
+American Stout,Crystal Springs Brewing Company,3.75,3.73,6.7,69,1
+Anchor Porter,Anchor Brewing Company,3.75,3.57,5.6,40,1
+Anchor Steam Beer,Anchor Brewing Company,3.5,3.49,4.9,33,1
+Angel City IPA,Angel City Brewery,3.25,3.57,6.1,65,1
+Apricot Blonde,Dry Dock Brewing Company,3.5,3.82,5.1,17,1
+Aquatic Assassin,Odd13 Brewing,4,3.89,6.4,N/A,1
+Arguing Semantics,Cerebral Brewing,4.25,4.13,7.5,N/A,1
+Atlantis - Hazy Day IPA,New Terrain Brewing Co.,3.75,3.81,5.8,N/A,1
+Avalanche Amber Ale,Breckenridge Brewery,3,3.51,5,19,1
+Avery IPA,Avery Brewing Co.,3.5,3.62,6.5,69,1
+AVL IPA,Highland Brewing Company,3,3.7,6.5,65,1
+Axe Man,Surly Brewing Company,4,4.12,7.2,65,1
+B-43,Old Nation Brewing Co.,4.25,3.86,7,65,1
+B-Bomb (2016),Fremont Brewing,4.25,4.35,14,N/A,1
+Barmen Pilsner,AC Golden Brewing Co.,4.5,3.82,5.1,N/A,1
+Beach Daze,Burgeon Beer Company,4.25,3.91,6.3,32,1
+Beach Life,Leatherback Brewing Co.,3.5,3.56,4.5,18,1
+Beerito®,Oskar Blues Brewery®,3.75,3.44,4.5,21,1
+Belgian Black Cherry,Great Basin Brewing Company,3.75,3.75,7.4,N/A,1
+Belikin Beer,Belize Brewing Company,3.5,3.2,4.8,18,1
+Berries & Cream Oatmeal Stout,Wild Blue Yonder Brewing Co.,4.25,3.78,5.5,26,2
+Big Bike Double IPA,Carver Brewing Company,2.5,3.94,7.8,111,1
+Billow,Outer Range Brewing Rockies/Alps,4,3.94,6,N/A,1
+Black Ale,Perrin Brewing Co.®,3.75,3.74,5.8,20,1
+Black Array,Gravity Brewing,4,3.78,6.3,60,1
+Black Butte Porter,Deschutes Brewery,4,3.81,5.5,30,1
+Black Saddle (2012),Crystal Springs Brewing Company,4,3.82,13,57,1
+Blackberry Serrano Berliner,WeldWerks Brewing Co.,4,3.96,4.7,N/A,1
+Blind Pig IPA,Russian River Brewing Company,3.5,4.15,6.25,70,1
+Blocks of Light,Outer Range Brewing Rockies/Alps,4.25,4.06,6.2,N/A,1
+Blood Orange Double IPA,Rails End Beer Company,3.75,3.95,7.8,82,1
+Blood Orange Express Ipa,12Degree Brewing,3.75,3.91,5.9,40,1
+Blood Orange IPA,Tommyknocker Brewery,3.75,3.73,6,55,1
+Blood Orange Kölsch,Crystal Springs Brewing Company,3.75,3.77,4.9,25,1
+Bob's Cedar IPA,Crystal Springs Brewing Company,4,3.66,8,54,1
+Boogie Van,Craftsman Brew Co,3.75,3.96,7.2,N/A,1
+Boomsauce,Lord Hobo Brewing Co.,4,3.91,8,78,1
+Boopable Snoot,WeldWerks Brewing Co.,4.5,4.05,6.6,N/A,1
+Boris The Spider,Spider Bite Beer Company,3.5,3.8,10,N/A,1
+Boss Tweed,Old Nation Brewing Co.,5,4.27,9.3,68,2
+Boston Lager,Samuel Adams,3.75,3.42,5,30,1
+Bourbon Barrel Aged Imperial Stout,Finkel & Garf Brewing Company,4.25,4.14,12.9,70,1
+Bourbon Barrel Aged Java Stout,Eddyline Brewery - USA,3.5,4.07,10,50,1
+Brain Waves,Cerebral Brewing,4.5,4.09,6.9,N/A,1
+Brew Free! or Die,21st Amendment Brewery,3.75,3.76,6.8,65,2
+Brosef,Zydeco Brew Werks,4,3.86,5.5,N/A,1
+Brown Ale,Upslope Brewing Company,3.25,3.64,6.7,45,1
+Brown Ale,Kirkland Signature,2,3.13,5,23,1
+Brownie Batter Stout,WeldWerks Brewing Co.,3.5,3.91,7.3,N/A,1
+Bud Light,Anheuser-Busch,1.75,2.33,4.2,6,1
+Budweiser,Anheuser-Busch,2,2.62,5,12,1
+Bumps & Jumps Session IPA,Breckenridge Brewery,3,3.65,4.5,N/A,1
+Bush Life,Leatherback Brewing Co.,3.75,3.57,6.4,15,1
+Cactus Juice,12Degree Brewing,4,3.97,6.5,12,1
+Can-O-Bliss® Tropical IPA,Oskar Blues Brewery®,3,3.76,7.2,68,1
+Captive Gaze,Knotted Root Brewing Company,4.25,4.28,7.2,60,1
+Cardboard Meteorite,WeldWerks Brewing Co.,4.5,4.21,8.3,N/A,1
+Carib Lager,Carib Brewery Limited,3,2.98,5,N/A,1
+Cart Horse,Old Nation Brewing Co.,4.25,4.08,7,60,1
+Cashmere,Variant Brewing Company,4.25,4.06,8,N/A,1
+Centennial IPA,Founders Brewing Co.,4,3.75,7.2,65,1
+Cerveza,Irwin Brewing Company,4,3.54,5.4,18,1
+Chang Classic,Thai Beverage PLC,2,2.92,5,12,1
+Chasin' Freshies,Deschutes Brewery,3,3.77,6,55,1
+Cherry Fog,12Degree Brewing,4,3.88,9.8,28,1
+Cherry Saison,Crystal Springs Brewing Company,3.5,3.57,5.7,24,1
+Chimay Grande Réserve (Blue),Bières de Chimay,4.25,3.9,9,35,1
+Chocolate Peanut Butter Porter,Horny Goat Brewing Co.,2.75,3.72,6.5,55,1
+Chowder,Storm Peak Brewing Company,3.75,3.87,6.1,N/A,1
+Christmas Ale (2012),Anchor Brewing Company,3.75,3.58,5.5,N/A,1
+Christmas Ale (2013),Anchor Brewing Company,4,3.57,5.5,N/A,1
+Citra Ass Down,Against the Grain Brewery,3,3.89,8.2,68,1
+Citra Citrus,4 Noses Brewing Company,3.75,4.07,6.9,N/A,1
+Citra Cutting Tiles,Trillium Brewing Company,5,4.4,8.5,N/A,1
+Citra DDH Juicy Bits,WeldWerks Brewing Co.,5,4.26,6.7,N/A,1
+Citra IPA,Smuggler Union Brewery,3,3.86,6.8,75,1
+Citra Pale Ale,Upslope Brewing Company,4,3.68,5.8,55,1
+Citra Single Hop IPA,Odell Brewing Co.,3.5,3.86,6.5,50,1
+Citradelic Tangerine IPA,New Belgium Brewing Company,3.75,3.69,6,50,1
+Citralush New England IPA,Epic Brewing Company,3.75,3.84,7,83,1
+Citropica IPA,Sycamore Brewing,4,3.78,6.8,60,2
+Cityscapes,Ratio Beerworks,3.5,3.61,4.8,N/A,1
+Cliff Drops,Outer Range Brewing Rockies/Alps,4,4.16,6.4,N/A,1
+Cloud Catcher,Odell Brewing Co.,3.75,3.79,6.8,47,1
+Cloud Harvest 06,Rhinegeist Brewery,3.75,3.78,6.5,N/A,1
+Cloud Walker Hazy Juicy IPA,Victory Brewing Company,3.75,3.84,6.8,55,1
+Coach,Odd13 Brewing,3.75,3.82,5,N/A,1
+Coal Kriek,Gravity Brewing,3.75,3.79,6.5,25,2
+Coalescence,WeldWerks Brewing Co.,4.25,4.13,7.3,N/A,2
+Coconut Coffee Dark Alchemy,Variant Brewing Company,4.25,4.07,5.2,N/A,1
+Codename: Holidayfan,Odd13 Brewing,4.5,4.24,11.4,N/A,1
+Codename: Superfan,Odd13 Brewing,4.25,3.98,6.5,80,1
+Coffee French Toast Stout,WeldWerks Brewing Co.,4.5,4.12,7.1,N/A,1
+Coffee Maple Medianoche (2020),WeldWerks Brewing Co.,5,4.47,N/A,N/A,1
+Cognizant Fog,Crystal Springs Brewing Company,4.25,N/A,7.2,46,1
+Cold Snap,Samuel Adams,3.25,3.49,5.3,10,1
+Colette Farmhouse Ale,Great Divide Brewing Company,3.75,3.6,7.3,35,1
+CONNECT THE DOTS,Progression Brewing,4.5,3.99,7,18,1
+Coors Banquet,Coors Brewing Company,2.75,2.84,5,15,1
+Coors Light,Coors Brewing Company,2,2.44,4.2,10,1
+Coriolis Effect,New Image Brewing,3.5,4.01,6.5,N/A,1
+Corona Extra,Grupo Modelo,3,3.12,4.6,18,1
+Corona Light,Grupo Modelo,2.5,2.8,4.1,18,1
+Cosmic Crypt,TRVE Brewing Company,3.75,3.72,5.6,N/A,1
+Country Boy IPA,Everybody's Brewing,3.25,3.57,6.2,80,1
+Craft Lager,Upslope Brewing Company,3.75,3.44,4.8,15,1
+Crank Yanker,Eddyline Brewery - USA,4.5,3.79,7,70,1
+Crystal Springs IPA,Crystal Springs Brewing Company,3.75,3.61,7.1,78,1
+Cumulus Juice,Rhinegeist Brewery,2.5,3.76,6.6,N/A,1
+Curiosity One Hundred Five,Tree House Brewing Company,4.5,4.25,8.1,N/A,1
+Cymbals,Stellwagen Beer Company,3.75,3.83,6,N/A,1
+D-D-D-Devastation,Barrels & Bottles Brewery,3.75,3.73,6.5,N/A,1
+Daisy Cutter,West Flanders Brewing Co.,3.75,3.67,7.9,23,1
+Daisy Cutter Pale Ale,Half Acre Beer Company,3.75,3.79,5.2,60,1
+Dale's® Pale Ale,Oskar Blues Brewery®,3.5,3.63,6.5,65,2
+Dandelion Saison,Carver Brewing Company,3,3.71,6,42,1
+Dankus Khan,Hops & Grain Brewing,4,3.89,N/A,N/A,1
+DDH 3.8 Miles,WeldWerks Brewing Co.,4.75,4.18,8.4,N/A,1
+DDH Juicy Bits,WeldWerks Brewing Co.,4.5,4.27,6.7,59,1
+DDH Rare Trait,Cerebral Brewing,4.5,4.19,6.4,N/A,1
+DDH Secret Chatroom,Cerebral Brewing,4.5,4.13,7.4,N/A,1
+DDH Smithereens,Outer Range Brewing Rockies/Alps,4.5,4.31,8,N/A,1
+Death By Coconut,Oskar Blues Brewery®,3.75,3.99,6.5,25,1
+Deep Ellum® IPA,Deep Ellum Brewing Company®,3,3.72,7,70,1
+Deschutes Black Bute Barrel Aged,Deschutes Brewery,4.25,3.91,13.6,40,1
+Desert Modern,Bow & Arrow Brewing Co.,5,4,6.7,N/A,1
+Deviated Daylight,Ruse Brewing,4.25,4.15,7.1,N/A,1
+Devil's Ale,SanTan Brewing Company,3.5,3.54,5.5,45,1
+Dirk Diggler,Odd13 Brewing,4,3.99,5.5,N/A,1
+Diverge IPA,Faction Brewing,4,3.85,7,N/A,1
+Doc's American Porter,Crystal Springs Brewing Company,3.75,3.66,7.1,51,1
+Doolittle IPA,Red Leg Brewing Company,3,3.61,6.7,60,1
+Doors of Perception,WeldWerks Brewing Co.,4.5,4.08,6.8,N/A,1
+Doppelgänger,Tree House Brewing Company,4.5,4.47,8.2,88,1
+Dortmunder Gold Lager,Great Lakes Brewing Company,3.5,3.56,5.8,30,1
+Dos Equis Ambar,Cervecería Cuauhtémoc Moctezuma S.A. de C.V.,3.25,3.25,4.7,25,1
+Dos Equis Lager Especial,Cervecería Cuauhtémoc Moctezuma S.A. de C.V.,3.25,3.1,4.2,10,1
+"Double Double Double Double - Simcoe, Idaho 7, Nelson Sauvin",New Image Brewing,4.25,4.36,9.5,15,1
+Double Dry Hopped Codename Superfan,Odd13 Brewing,4.75,4.32,6.5,N/A,1
+Double Dry Hopped Congress Street,Trillium Brewing Company,4.5,4.48,7.2,N/A,1
+Double Dry-Hopped 'Bout Damn Time,4 Noses Brewing Company,4.25,4.03,7.1,69,1
+Double Ipa,Irwin Brewing Company,3.5,3.79,8,85,1
+Double Mt Massive IPA,14er Brewing Company,3.25,3.75,8.3,74,1
+Double Pier,Trillium Brewing Company,4.75,4.22,8.7,N/A,1
+Dr. Lupulin 3x,Revision Brewing Company,3.75,4.06,11.3,133,1
+Dragon's Milk,New Holland Brewing,4.25,4.06,11,30,1
+Dream Bubbles,Knotted Root Brewing Company,5,4.44,8.5,55,1
+Drip Drip Drip,Saucy Brew Works,4,3.89,7.5,N/A,1
+Drumroll,Odell Brewing Co.,3.5,3.75,5.3,42,1
+Duke's Cold Nose Brown Ale,Bold City Brewery,3.75,3.64,5,60,1
+Dumpster Cock VIPA,Rock City Brewing Company,3.5,3.7,6,47,1
+Dunkel,Prost Brewing Co. & Biergarten,3.5,3.68,5.6,24,1
+East Coast IPA,Russell Brewing Company,3,3.75,6,53,1
+East Coast Transplant,New Image Brewing,4.25,4.04,8.5,85,1
+East Coast Transplant (DDH),New Image Brewing,4.25,4.19,8.5,N/A,2
+East Hill,Tree House Brewing Company,4.25,4.1,5.4,N/A,1
+Easy Street,Odell Brewing Co.,3.5,3.57,4.6,21,1
+Eazy Cheeze,Gravity Brewing,3.75,3.41,5,25,1
+Eclectic Potion - Sauvignon Blanc,Cerebral Brewing,4.25,4.26,11,N/A,1
+EHT Medianoche,WeldWerks Brewing Co.,4.5,4.21,11.3,N/A,1
+El Dorado DDH Juicy Bits,WeldWerks Brewing Co.,5,4.21,6.7,N/A,1
+El Dorado Extra Extra Juicy Bits,WeldWerks Brewing Co.,4.25,4.28,8.6,N/A,1
+El Jugo,La Cumbre Brewing Company,4,4.02,6.2,40,1
+Elephant,Carlsberg Group,3,3.09,7.5,22,1
+Elephino Double IPA,Red Rock Brewing Co.,3.75,3.9,8,88,1
+Elevated IPA,La Cumbre Brewing Company,4,4.01,7.2,100,1
+Ella DDH Juicy Bits,WeldWerks Brewing Co.,4.5,4.08,6.7,N/A,1
+Ellie's Brown Ale,Avery Brewing Co.,3.75,3.62,5.5,28,1
+English Brown Ale,Irwin Brewing Company,3,3.72,4.7,19,1
+Epic Day Double IPA,Eddyline Brewery - USA,3.75,3.99,10,100,1
+Eric's Ex-Wife,Odd13 Brewing,4,4.03,7.2,N/A,1
+ESB,Redhook Brewery,3.25,3.44,5.8,28,1
+escalante imperial ipa,Base Camp Beer Works,4,3.83,7.7,75,1
+Evolution,The Grizzly Paw Brewing Company,3.25,3.73,6.2,67,1
+EVOLVE,Progression Brewing,4,3.98,8,69,1
+Extra Dry,Stillwater Artisanal,3.75,3.61,4.2,N/A,1
+Extra Easy Amber,Tennessee Brew Works,3,3.48,5.25,37,1
+Extra Extra Juicy Bits,WeldWerks Brewing Co.,4.5,4.34,8.6,N/A,1
+Extrovert IPA,Left Hand Brewing Company,3.5,3.68,7.1,75,1
+Face Down Brown,Telluride Brewing Company,3.75,3.72,5.7,37,1
+Fake Item Box,WeldWerks Brewing Co.,3.75,4.06,4.7,N/A,2
+Fat Tire Ale,New Belgium Brewing Company,3.25,3.58,5.2,15,1
+Feast Like A Sultan,Laughing Sun Brewing Co.,3.75,3.76,6.8,90,1
+Ferda,T.F. Brewing - Templin Family,4,3.99,8.2,72,1
+Festbier,Columbus Brewing Company,3.25,3.62,5.3,N/A,1
+First Bite Pale Ale,Spider Bite Beer Company,3.25,3.46,5.5,30,1
+Flatiron Fog,4 Noses Brewing Company,3.75,4.03,6.5,N/A,1
+Fluffernutter,WeldWerks Brewing Co.,4.75,4.35,9.4,N/A,1
+Focal Banger,The Alchemist,4,4.4,7,90,1
+Fogged Out,FlyteCo Brewing,4,3.78,7.3,N/A,1
+Foray Pomegranate Sour,Zion Brewery,4.25,3.88,4,7,1
+Forest Bathing DDH,Outer Range Brewing Rockies/Alps,4.5,4.15,7.1,N/A,1
+Form Unclear,Knotted Root Brewing Company,4.5,4.35,7.4,45,1
+Foxx Rougge,12Degree Brewing,4,3.72,7.2,28,1
+Freestyle,Outer Range Brewing Rockies/Alps,4.5,4.04,6.6,N/A,1
+French Toast Stout,WeldWerks Brewing Co.,4.5,4.13,7.1,N/A,1
+Fresh Finds,Outer Range Brewing Rockies/Alps,4.5,4.14,8.1,N/A,1
+Fresh Hop Juice Jr.,Great Notion Brewing,4,4.2,6,55,1
+Fresh Hopped IPA,FATE Brewing Company,3.75,3.78,7,N/A,2
+Fresh IIPA One Hop Simcoe (All Canned Dates),Hubbard's Cave,4,4.14,8.5,N/A,1
+Fresh IIPA V5 (All Canned Dates),Hubbard's Cave,4,4.18,8.5,N/A,1
+Fresh Palette,Outer Range Brewing Rockies/Alps,4.75,4.09,7.2,N/A,1
+Fresh Squeezed,Deschutes Brewery,4,3.91,6.4,60,1
+Friend of the Malt,Admiral Maltings,3.5,3.69,5,16,1
+"From Nelson, With Love",WeldWerks Brewing Co.,4,4.22,8.2,N/A,1
+Frontman,Black Shirt Brewing Co.,3.75,3.76,7.25,70,1
+Full Send,Outer Range Brewing Rockies/Alps,3.75,4.09,7.4,N/A,1
+Galactic Yacht Party,Platt Park Brewing Company,4,3.78,5.8,N/A,1
+Galaxy DDH Juicy Bits,WeldWerks Brewing Co.,4.75,4.3,6.7,65,1
+George Killian's Irish Red,Coors Brewing Company,2.75,3.29,5.4,14,1
+German Style Lager,Kirkland Signature,2,2.93,5.5,N/A,1
+Gggreennn!,Tree House Brewing Company,4.5,4.49,7.5,N/A,1
+Gnar Shredder,Wild Blue Yonder Brewing Co.,3.75,3.74,8.5,40,1
+Gold Dust Waves,WeldWerks Brewing Co.,4,4.02,6.1,N/A,1
+Golden Haze - N.E. IPA,New Terrain Brewing Co.,3.75,3.95,6.8,60,1
+Golden Lager,Colorado Native,3,3.44,5.5,27,1
+Golden Mosaic,Gravity Brewing,3.5,3.77,5.8,35,1
+Goose IPA,Goose Island Beer Co.,3,3.51,5.9,55,1
+Gose,Crystal Springs Brewing Company,3.25,3.47,4.4,10,1
+Graham Cracker Porter,Denver Beer Co.,4,3.79,5.6,15,1
+Grapefruit Double IPA,Dry Dock Brewing Company,4,3.93,9,90,1
+Grapefruit Yanker IPA,Eddyline Brewery - USA,3.25,3.87,7,70,1
+Green,Tree House Brewing Company,4.25,4.43,7.5,90,1
+Green Cannonball IPA,Ulele Spring Brewery,3.75,3.61,7.5,N/A,1
+Green Shell,WeldWerks Brewing Co.,4,3.97,4.7,N/A,1
+Green Showers,Novel Strand Brewing Company,3.75,3.83,6.2,N/A,1
+Greenhouse IPA,Hops & Grain Brewing,3.75,3.77,7.6,71,1
+Groovity,Gravity Brewing,3.25,3.68,5.8,22,1
+Guinness Blonde,Guinness,3,3.25,5,19,1
+Guinness Draught,Guinness,3.75,3.77,4.2,45,1
+Guinness Foreign Extra Stout,Guinness,4,3.66,7.5,47,1
+Guinness Original (Europe),Guinness,3.75,3.54,4.2,N/A,1
+Harp Premium Lager,Guinness,3.25,3.31,4.5,21,1
+Harpoon IPA,Harpoon Brewery,3.25,3.5,6,42,1
+Haze,Tree House Brewing Company,4.5,4.47,8.2,90,1
+Haze Jude,Platform Beer Company,3.5,3.86,6,46,1
+Haze Trip,Bozeman Brewing Company,3.5,3.73,4.7,40,1
+Hazy IPA,Great Divide Brewing Company,4,3.85,6.2,40,1
+Hazy IPA,Irwin Brewing Company,3.5,3.82,7.5,55,1
+Hazy IPA,MadeWest Brewing Company,3.75,3.93,7,35,1
+Hazy Jane,BrewDog,4,3.68,5,N/A,1
+Hazy Little Thing,Sierra Nevada Brewing Co.,3.5,3.78,6.7,35,1
+Hazy Monday,Central Coast Brewing,3.75,3.92,7.2,N/A,1
+Hazy Sunday,12Degree Brewing,4.25,3.82,6.4,N/A,1
+Hazy-O!,Dogfish Head Craft Brewery,3.75,3.78,7.1,45,1
+Hazyish IPA,Avery Brewing Co.,3.75,3.71,6.5,30,1
+Heady Topper,The Alchemist,4.75,4.53,8,100,1
+Heavenly Daze,Zilker Brewing Company,4,3.87,6.8,30,1
+Hefeweizen,Prost Brewing Co. & Biergarten,3.75,3.7,5,12,1
+Hercules Double IPA,Great Divide Brewing Company,4,3.82,10,85,1
+Herman Joseph's Private Reserve,AC Golden Brewing Co.,4.5,3.7,4.95,N/A,1
+Heyday Modern IPA,Great Divide Brewing Company,3.5,3.56,5.8,45,1
+Hi-C IPA,Hi Sign Brewing,4,3.83,6.9,N/A,1
+Hibernation Ale,Great Divide Brewing Company,4,3.65,8.7,50,1
+High Ground IPA,Manitou Brewing Company,3.75,3.86,6.9,125,1
+High Life,Miller Brewing Company,2.25,2.72,4.6,7,1
+High Side! IPA,Moonlight Pizza & Brewing,3.5,3.53,6.5,N/A,1
+High Tide Fresh Hop IPA,Port Brewing Company,3.75,3.75,6.5,78,1
+Higher Ground IPA,Birdsong Brewing Co,3.75,3.72,7,65,1
+Hip To the Lingo,WeldWerks Brewing Co.,4,4,7.1,N/A,1
+Hippity Hops,Caution Brewing Company,1.5,3.48,7.5,57,1
+Hit the Deck,Fernie Brewing Company,3.25,3.81,6.7,50,1
+Hollow Fang,Cerebral Brewing,4.5,4.03,7.4,N/A,1
+Honeyman 34,Comrade Brewing Co,4,3.84,6.3,49,1
+Hookiebobb IPA,Crazy Mountain Brewing Company,3.5,3.53,6.7,87,1
+Hop Abomination,Dry Dock Brewing Company,3.75,3.74,6.5,70,1
+Hop Dang Diggity,Jekyll Brewing,3,3.78,6.7,74,1
+Hop Down,Uhl’s Brewing Co,4.25,3.87,6.2,10,1
+Hop Drop ‘N Roll,NoDa Brewing Company,3.75,3.97,7.2,81,1
+Hop Nectar,Liquid Mechanics Brewing Co.,3.5,3.88,5.3,35,1
+Hop Ottin' IPA,Anderson Valley Brewing Company,2.75,3.55,7,80,1
+Hop Peak IPA,Breckenridge Brewery,3.25,3.64,6.5,57,1
+Hop Rising® Tropical,Squatters® Craft Beers,3.5,3.75,9,72,1
+Hop Savant,Crooked Stave Artisan Beer Project,3.75,3.8,6.7,N/A,1
+HOPACITY,Liquid Mechanics Brewing Co.,3.75,3.9,5.7,40,1
+Hopadillo IPA,Karbach Brewing Co.,3,3.68,6.6,65,1
+Hopbominable,Odd13 Brewing,4.25,4.13,8,N/A,1
+Hopcelot,Lawson's Finest Liquids,4.75,4.08,7,77,1
+Hoplanta (2011–2018),Atlanta Brewing Company,2.75,3.53,6.8,61,1
+Hoppatropica - Tropical Pale Ale,New Terrain Brewing Co.,3.5,3.69,5.9,40,1
+Hopperella,Odd13 Brewing,4.5,4.03,7.1,N/A,1
+Hoppy Hiker,Mountain Tap Brewery,3.5,3.77,6,50,1
+Hoptree IIPA,Lone Tree Brewing Company,1.75,3.77,8,N/A,1
+Hotline,Bearded Iris Brewing,4.5,4.11,7,N/A,1
+Houblon Chouffe,Brasserie d'Achouffe,3.5,3.68,9,47,1
+Howdy Beer,Howdy Beer,4,3.45,4.5,40,1
+Hubert,Melvin Brewing,4,3.87,6,66,1
+Hudson Mid-Coast-Style IPA,Crystal Springs Brewing Company,4,3.82,7.5,67,1
+Husky IPA,Alaskan Brewing Co.,4,3.66,7,50,1
+Hyperdry,Mystic Brewery,4,3.99,8,N/A,1
+Hyperlink,Cerebral Brewing,4.25,4.02,7.2,N/A,1
+I Am GrapeFROOT,Redgarden Restaurant and Brewery,3.5,3.69,5,N/A,1
+I'm A Fancy Boy!,Knotted Root Brewing Company,5,4.31,8,65,1
+I-P-Alien,Odd13 Brewing,4,4.05,7.5,N/A,1
+Ichiban (Ichiban Shibori) (一番搾り),Kirin Brewery Company,3.25,3.15,5,18,1
+Ill-Tempered Gnome,Oakshire Brewing,3.75,3.61,6.8,65,1
+Imperial Nut Brown Ale,Tommyknocker Brewery,3.75,3.64,9,57,1
+Imperial Raspberry Lemon Gose,Variant Brewing Company,4,4.31,10,N/A,1
+Imperial Red,Crystal Springs Brewing Company,4.25,3.69,8.6,82,1
+In the Deep Steep (DDH Wai'iti & Nelson),Outer Range Brewing Rockies/Alps,4,4.25,9,N/A,1
+In the Steep,Outer Range Brewing Rockies/Alps,4.25,4.13,6.7,N/A,1
+In the Steep DDH (Citra),Outer Range Brewing Rockies/Alps,4.25,4.3,6.7,N/A,1
+In the Steep DDH Azacca,Outer Range Brewing Rockies/Alps,4.75,4.28,6.7,N/A,1
+Inconceivable,12Degree Brewing,3.75,3.79,6.7,38,1
+Incredible Pedal IPA,Denver Beer Co.,3.75,3.77,7,60,1
+Independence Pass Ale,Aspen Brewing Company,3.5,3.66,7,62,1
+India Pale Ale,Upslope Brewing Company,3,3.57,7.2,65,1
+India Pale Ale,Kirkland Signature,2,3.1,6.9,77,1
+Industrial™ IPA,Diamond Knot Brewing Company,3.25,3.65,7.9,80,1
+Intergalactic Juice Hunter,Odd13 Brewing,4.25,4.16,8,N/A,1
+Intergalactic Juice Hunter 1.0,Odd13 Brewing,4,4.11,8,N/A,1
+Introvert IPA,Left Hand Brewing Company,3.75,3.51,4.8,55,1
+IPA,Odell Brewing Co.,3.5,3.84,7,60,1
+IPA,Finkel & Garf Brewing Company,3.75,3.67,6.5,80,1
+IPA,Irwin Brewing Company,2.75,3.7,6.5,65,1
+IPA,Oskar Blues Brewery®,2.75,3.72,6.43,70,1
+IPA,Colorado Boy,3,3.72,6.6,45,1
+IPA,SweetWater Brewing Company,3.25,3.67,6.3,50,1
+IPA,Crooked Stave Artisan Beer Project,4,3.83,6.8,N/A,1
+IPA,Lagunitas Brewing Company,3,3.7,6.2,51,1
+IPA,Buoy Beer Company,3.25,3.77,7.5,70,1
+IPA,Columbus Brewing Company,4,3.76,6.3,60,1
+IPA,Sibling Revelry Brewing,3,3.69,6.5,60,1
+IPA ASAP,Saucy Brew Works,4,3.66,6.3,66,1
+IPApaya,Full Sail Brewing Company,3.5,3.68,6.2,58,1
+Island Hoppin IPA,St. John Brewers,3.25,3.42,6.2,52,1
+Island IPA,Bad Martha Beer,3.75,3.5,5.5,35,1
+Island Summer Ale,St. John Brewers,3.5,3.42,4.2,12,1
+Isolation Ale,Odell Brewing Co.,3.5,3.65,6.1,27,1
+Japanese Rice Lager,Upslope Brewing Company,4,3.64,4.9,N/A,1
+Jillijuice,Boise Brewing,3.75,3.72,7.6,N/A,1
+Joe IPA,10 Barrel Brewing Co.,3.75,3.75,6.9,70,1
+Johnny Juice IPA,Winter Hill Brewing Company,3.75,3.79,7,N/A,1
+Johnny's American IPA,Moab Brewery,3.5,3.42,7,60,1
+Jolly Roger Black Ale,Eddyline Brewery - USA,3.5,3.64,5.2,20,1
+Juice & Skitch IPA,Storm Peak Brewing Company,3.25,3.87,5.7,N/A,1
+Juice Bomb,Sloop Brewing Co.,4,3.96,6.5,N/A,1
+Juice Drop Hazy IPA,Breckenridge Brewery,3.25,3.67,7,80,1
+Juice Jr.,Great Notion Brewing,4.5,4.13,6,20,1
+Juicebox Hero,Central Coast Brewing,2.75,4.02,7,35,1
+Juiciness,Sycamore Brewing,4,3.84,6.8,N/A,1
+Juicy Banger IPA,Station 26 Brewing Co.,3.75,3.91,7.4,100,1
+Juicy Bits,WeldWerks Brewing Co.,4.5,4.16,6.7,N/A,1
+Juicy Booty Hazy IPA,St. John Brewers,4,3.97,6.9,65,1
+Juicy Freak,Denver Beer Co.,3.75,3.73,6.5,N/A,1
+Juicy IPA,Eddyline Brewery - USA,3.5,3.79,7.4,40,1
+Juicy IPA,Zion Brewery,4,3.79,4,N/A,1
+Juicy Jay,Legion Brewing Company,3.5,3.85,6.3,68,1
+Juicy Johnny’s Hazy IPA,Moab Brewery,3.75,3.57,5,35,1
+Juicy West,Crooked Stave Artisan Beer Project,3.75,3.79,6,32,1
+Juicy Yo IPA,Crystal Springs Brewing Company,4,3.71,7.5,57,1
+JuicyFish,WeldWerks Brewing Co.,4.25,4.15,8.6,N/A,1
+Julius,Tree House Brewing Company,4.75,4.48,6.8,72,1
+junction juice,Base Camp Beer Works,4,3.93,5.5,N/A,1
+Junegrass,Mountains Walking Brewery,3.5,3.83,6.5,65,1
+Kickin' Back Amber Lager,Eddyline Brewery - USA,3.5,3.54,5.5,15,1
+Killer Bees,Melvin Brewing,3.5,3.52,5,15,1
+King Sue,Toppling Goliath Brewing Co.,4.25,4.31,7.8,100,1
+König Pilsener,König Brauerei,3.75,3.13,4.9,32,1
+La 150° Bionda,G. Menabrea & Figli,3.5,3.22,4.8,20,1
+LA Freshie,Monkish Brewing Co.,4.25,4.36,8.1,N/A,1
+La Petite Bete,Resident Culture Brewing Co.,4.25,4.22,7,N/A,1
+Lager,Great Divide Brewing Company,4.25,3.53,5,N/A,1
+Leave A Trail DDH,Outer Range Brewing Rockies/Alps,4.5,4.15,7,N/A,1
+Legendary Red Ale,Golden City Brewery,3.75,3.57,5.4,31,1
+Liberty Ale,Anchor Brewing Company,3.5,3.48,5.9,47,1
+Lieutenant Dank,Wicked Weed Brewing,3.75,3.82,6.5,60,1
+Lil' Fugger,4 Noses Brewing Company,1.5,3.96,6.4,N/A,1
+Lilly of the Valley,Woods Boss Brewing Company,3.25,3.85,5.6,N/A,1
+Little Lightspeed,Odd13 Brewing,3.75,3.61,4.1,N/A,1
+Loch Down Scotch Ale,Arcadia Brewing Co.,4,3.58,8,16,1
+Lone Wolf IPA,Fernie Brewing Company,3,3.54,6.5,70,1
+Long Hammer IPA,Redhook Brewery,3.5,3.47,6.2,44,1
+LOST - Colorado IPA,New Terrain Brewing Co.,3.75,3.8,6.7,75,1
+Lotus DDH Hop Down,Uhl’s Brewing Co,4,3.78,6.2,N/A,1
+Love Gun,Craftsman Brew Co,3.75,4.02,4.8,N/A,1
+Lucid AF,Liquid Mechanics Brewing Co.,3.75,3.9,7,76,1
+Lucky Day IPA,Central Coast Brewing,4.25,3.87,7,65,1
+Lulu’s Lager,Crystal Springs Brewing Company,4,3.54,4.5,14,1
+Lumber Juice,WeldWerks Brewing Co.,4.75,4.1,8.3,N/A,1
+Luminosity,La Cumbre Brewing Company,3.75,4.01,7.2,N/A,1
+Lunch,Maine Beer Company,4,4.17,7,N/A,1
+Lupulin Meridian,4 Noses Brewing Company,4.5,4.03,6.9,N/A,1
+Lush IPA,Fremont Brewing,3.5,3.9,7,80,1
+M-43 N.E. India Pale Ale,Old Nation Brewing Co.,4.75,4.17,6.8,65,2
+Mad Juicy,South Park Brewing,3.75,3.75,6.5,60,1
+Mad Manatee IPA,Bold City Brewery,3.5,3.55,6.5,60,1
+Mama's Little Yella Pils®,Oskar Blues Brewery®,3.5,3.44,4.7,35,1
+Maple Nut Brown Ale,Tommyknocker Brewery,3.75,3.54,4.5,20,1
+Marilyn,Crystal Springs Brewing Company,3.5,3.52,9,N/A,1
+Märzen,Prost Brewing Co. & Biergarten,3.75,3.71,5.2,22,1
+Marzen,Irwin Brewing Company,3.5,3.62,5.8,N/A,1
+Melvin IPA,Melvin Brewing,4.5,3.93,7.5,80,1
+Mendacious,Gravity Brewing,3.75,3.68,8.1,28,1
+Mexican Lager,Redgarden Restaurant and Brewery,3.25,3.67,5,N/A,1
+Mexican Lager,Irwin Brewing Company,3.75,3.64,5.5,N/A,1
+Mexican Logger,Ska Brewing,3.5,3.35,5.2,20,1
+Midas Crush,MAP Brewing Company,3.75,3.9,6.9,65,1
+Midnight Fog,12Degree Brewing,4,3.77,9.6,24,1
+Mile High City Copper,Breckenridge Brewery,3.75,3.57,5.7,N/A,1
+Mile High Pale Ale,Wynkoop Brewing Co.,3.25,3.59,5.5,62,1
+Milk Stout,Left Hand Brewing Company,3.75,3.89,6,25,1
+Milk Stout Nitro,Left Hand Brewing Company,4,3.93,6,25,1
+Miller Genuine Draft,Miller Brewing Company,2.25,2.58,4.7,12,1
+Miller Lite,Miller Brewing Company,2,2.53,4.2,10,1
+Mind Circus,Russian River Brewing Company,4.75,4.06,7,N/A,1
+Modelo Ambar,Grupo Modelo,3.25,3.24,4.8,19,1
+Modelo Especial,Grupo Modelo,2.75,3.13,4.5,18,1
+Modelo Negra,Grupo Modelo,2.75,3.31,5.4,16,1
+Modus Hoperandi,Ska Brewing,3.75,3.75,6.8,75,1
+Mohawk Moment,Outer Range Brewing Rockies/Alps,4.25,4.25,9,N/A,1
+Moirai IPA,FATE Brewing Company,4,3.76,7,65,1
+Molson Canadian,Molson Coors Canada,3.25,2.9,5,15,1
+"Money, Cash, Hops",Zydeco Brew Werks,4,3.98,8.1,N/A,1
+Montucky Cold Snack,Montucky Cold Snacks,4,3.28,4.1,N/A,1
+Moon Cheeze,Gravity Brewing,3.75,3.8,6.5,47,1
+Moon Cloud,Variant Brewing Company,4,3.9,6.8,N/A,1
+Moon Master,Odd13 Brewing,4.25,3.88,7,N/A,1
+Moosehead Lager,Moosehead Breweries Limited,4,3.16,5,13,1
+Mosaic DDH Juicy Bits,WeldWerks Brewing Co.,5,4.28,6.7,N/A,1
+Mosaic Dry Hopped Fort Point,Trillium Brewing Company,4.25,4.35,6.6,N/A,1
+Mosaic India Red Ale,Smuggler Union Brewery,3.25,3.66,7.1,62,1
+Mountain Hound,Laughing Dog Brewing,3.75,3.49,4,9,1
+Mountain Squeeze Juicy IPA,Tivoli Brewing Company,3.75,3.65,6,30,1
+Mountain Standard,Odell Brewing Co.,3.5,3.8,6.5,40,1
+Move Me Brightly,Telluride Brewing Company,3.75,3.73,6,N/A,1
+Mt Massive IPA,14er Brewing Company,0.5,3.6,6.5,65,1
+Mt. Zion IPA,Mountain Toad Brewing,3.25,3.68,7.6,80,1
+Mutant X,Oskar Blues Brewery®,3.5,3.68,7,65,1
+Myrcenary Double IPA,Odell Brewing Co.,4.5,4.01,9.3,70,1
+Mystic Mama,Jackie O's Brewery,3.5,3.83,7,80,1
+n00b,Odd13 Brewing,4,3.93,6,60,1
+Napoleon's Conquest French Saison,Wild Blue Yonder Brewing Co.,4,3.63,6.8,24,1
+Nastro Azzurro,Birra Peroni,3.75,3.16,5.1,24,1
+Nasty Habit,Mt. Begbie Brewing Company,3,3.69,6,40,1
+Natural Selection,Outer Range Brewing Rockies/Alps,4.5,4.27,7.5,N/A,1
+Naughty Marilyn,Crystal Springs Brewing Company,3.75,3.69,8.2,29,1
+Nelson Extra Extra Juicy Bits,WeldWerks Brewing Co.,5,4.34,8.6,N/A,1
+New England IPA,Samuel Adams,4,3.69,6.8,35,1
+Nirvana IPA,Brewery Ommegang,3.75,3.73,6.5,60,1
+Nitro Irish Stout,Breckenridge Brewery,3.75,3.62,4.8,38,1
+None-Ya,West Flanders Brewing Co.,3.5,3.62,5.5,34,1
+Norcross St. IPA,Variant Brewing Company,3.75,3.84,7.5,N/A,1
+North Star V.01 - N.E. Double,New Terrain Brewing Co.,3.75,3.99,8,N/A,1
+North Star V.10 - 420 Haze,New Terrain Brewing Co.,4,4.02,7.3,N/A,1
+North Star V.26 - Winter Haze,New Terrain Brewing Co.,3.75,3.82,7,N/A,1
+"North Star V.38 - Solero, Calista, Mandarina Bavaria",New Terrain Brewing Co.,3.75,4.03,7.2,N/A,1
+Nut Brown,Redhook Brewery,4,3.27,5.8,N/A,1
+Nut Brown Ale,Peak Organic Brewing Company,3.5,3.38,4.8,21,1
+NVP (Nitro Series),Breckenridge Brewery,4,3.76,5.4,16,2
+Oatmeal Stout,Upslope Brewing Company,4,3.69,5,25,1
+Oatmeal Stout,Faction Brewing,3.75,3.61,5.8,N/A,1
+Oktoberfest,Great Notion Brewing,4,3.8,5.6,N/A,1
+Old Chub®,Oskar Blues Brewery®,3.25,3.73,8,30,1
+One Man Mosh Pit,Surly Brewing Company,4,3.97,7.2,N/A,1
+Orange Dinosaur,Mystic Brewery,3,4.17,8.5,N/A,1
+Orange Ginger Gose,Liquid Mechanics Brewing Co.,3.5,N/A,4.8,N/A,1
+Orderville,Modern Times Beer,3.25,3.92,7.2,55,1
+Organic IPA,Farm Island Brewing,3.5,3.5,6.5,N/A,1
+Original,Lone Star Brewing Co.,2.5,2.92,4.72,10,1
+Overland IPA,Hopworks Brewery,3.5,3.8,6.9,60,1
+Owl Eyes,Good River Beer,4,3.62,6.7,45,1
+Pablo IPA,Zydeco Brew Werks,3.75,3.7,6.7,N/A,1
+Pabst Blue Ribbon,Pabst Brewing Company,2.5,2.84,4.8,10,1
+Pacífico Clara,Grupo Modelo,2.75,3.17,4.5,15,1
+Pale Ale,Omission Brewing,2.75,3.26,5.8,33,1
+Pale Ale,Colorado Boy,3.75,3.72,5.9,N/A,1
+Pale Ale,Sierra Nevada Brewing Co.,3.5,3.63,5.6,38,1
+Paleidoscope,Ex Novo Brewing,4,3.73,5.5,52,1
+Pandan Porter,Mountain Toad Brewing,3.75,3.64,5.6,23,1
+Papyrus Iris,Ruse Brewing,4.25,4.09,6.5,45,1
+Party,MAP Brewing Company,3.75,3.65,5.3,11,1
+Pastels,Outer Range Brewing Rockies/Alps,4.25,4.15,6.9,N/A,1
+Pay It Forward - Huell Melon & Nelson Sauvin,New Image Brewing,4.25,4.07,7.8,N/A,1
+Permutation 6.14,Trillium Brewing Company,4.25,4.05,7.7,N/A,1
+Pernicious,Wicked Weed Brewing,4,3.96,7.3,70,1
+Perpetual Impressions,Knotted Root Brewing Company,4.25,4.25,6.8,45,1
+Perpetually Unimpressed,Knotted Root Brewing Company,4.5,4.27,8.2,82,1
+Perpetually Unimpressed V.2,Knotted Root Brewing Company,4.75,4.39,8.2,82,1
+Phaser,Ecliptic Brewing,4,3.9,6.5,45,1
+Pick Axe IPA,Tommyknocker Brewery,3.25,3.47,6.2,55,1
+Pier,Trillium Brewing Company,5,4.15,6.7,N/A,1
+Pilsner,Prost Brewing Co. & Biergarten,3.75,3.51,4.9,43,1
+Pilsner,Full Sail Brewing Company,3.5,3.47,6,60,1
+Pilsner Urquell,Plzeňský Prazdroj,2.75,3.37,4.4,40,1
+Pilsner UrqWeld,WeldWerks Brewing Co.,3.75,3.9,5.4,N/A,1
+Pink Guava Sorbet Sour,Finkel & Garf Brewing Company,4.25,4,4.7,N/A,1
+Pinkus Hefe Weizen,Brauerei Pinkus Müller,3.75,3.42,5,16,1
+Pinner,Oskar Blues Brewery®,3.25,3.66,4.9,35,1
+Plattmosphere,Platt Park Brewing Company,4.25,3.82,7.2,N/A,1
+Pliny the Elder,Russian River Brewing Company,5,4.5,8,100,2
+Pliny the Younger,Russian River Brewing Company,4.5,4.65,10.25,90,1
+Poofy,Outer Range Brewing Rockies/Alps,4.5,4.11,8.7,N/A,1
+Powder Dreams (Dry Hopped w/ Citra Lupulin Powder & Vic Secret Hops),Captain Lawrence Brewing Company,3.75,4.03,7.5,75,1
+Pre-2016 DPA (old version),Great Divide Brewing Company,3.25,3.51,5.4,40,1
+Presidente,Cervecería Nacional Dominicana,2.75,3.01,5,N/A,1
+Princess Yum Yum,Denver Beer Co.,3,3.59,4.8,N/A,1
+Proboscis Simcoe Pale Ale,4 Noses Brewing Company,3.75,3.77,5.8,60,1
+Project Dank,La Cumbre Brewing Company,4.5,4.09,7.5,100,1
+Pump Action Imperial Pumpkin Ale,4 Noses Brewing Company,4,3.88,7.7,12,1
+Punk IPA,BrewDog,3.5,3.72,5.2,35,1
+Purple Mountains,Vail Brewing Company,3,3.88,6.8,N/A,1
+Push Notification,Cerebral Brewing,4,3.91,7.2,N/A,1
+Raccoon Eyes,Outer Range Brewing Rockies/Alps,4.5,3.97,8,N/A,1
+Radio Haze,NoDa Brewing Company,4.25,3.88,6,20,1
+Rainier,Pabst Brewing Company,2,3.03,4.6,10,1
+Rando,Outer Range Brewing Rockies/Alps,4,4.02,6.9,N/A,1
+Rare Trait,Cerebral Brewing,4,4.02,6.4,60,1
+Raspberry Blonde,4 Noses Brewing Company,4,3.74,6.3,12,1
+Raspberry Fog,12Degree Brewing,4.5,N/A,9.6,24,1
+Raspberry Lemon Gose,Variant Brewing Company,4,4.12,4.8,N/A,1
+Raspberry Wheat,Eddyline Brewery - USA,3.5,3.58,4.6,15,1
+Rayfield Red IPA,Berthoud Brewing Company,3.75,3.66,6.6,68,1
+Realness,Monkish Brewing Co.,4.75,4.38,8.3,N/A,1
+Rebel IPA,Samuel Adams,3,3.48,6.5,45,1
+Reef Donkey,Tampa Bay Brewing Company,2,3.69,5.5,36,1
+Reef Life,Leatherback Brewing Co.,3.5,3.75,6.5,75,1
+Remote Island,Cerebral Brewing,4.25,4.09,8,N/A,1
+Reverie Brett IPA,Crooked Stave Artisan Beer Project,3.5,3.65,N/A,N/A,1
+Revised Copy,4 Noses Brewing Company,4,4.1,7.2,N/A,1
+Ripe Trait,Cerebral Brewing,3.75,4.01,6.4,N/A,1
+River North IPA,River North Brewery,3.5,3.55,7.1,N/A,1
+River Runners Pale Ale,Eddyline Brewery - USA,4.25,3.67,6,60,1
+Riverside West Coast Pilsner,Everybody's Brewing,4.25,3.78,5,30,1
+Road 2 Ruin Double IPA,Two Roads Brewing Company,4.5,3.82,8,78,1
+Robust Porter,Stoup Brewing,4,3.77,6.2,45,1
+Rock the F*ck On Forever,Mockery Brewing,3.75,3.8,6.7,60,1
+Rolling Rock Extra Pale,Latrobe Brewing Co.,3,2.81,4.4,5,1
+Rooster Brown Ale,Frenchtown Brewing Company,4,3.81,5.5,25,1
+Rope Drop Hazy IPA,Bonfire Brewing,3.75,3.8,6,61,1
+Rupture Fresh Grind IPA,Odell Brewing Co.,4,3.82,6,37,1
+Rustic Ways,Outer Range Brewing Rockies/Alps,3.75,4.13,8.4,N/A,1
+Sabro DDH Juicy Bits,WeldWerks Brewing Co.,3.75,4.19,6.7,N/A,1
+Saison Deux Fleur,Redgarden Restaurant and Brewery,4,3.48,6,N/A,1
+Salmon Fly Honey Rye,Madison River Brewing Company,3,3.6,5.6,23,1
+Samurai,Great Divide Brewing Company,2.75,3.35,5,20,1
+San Franpsycho IPA,Anchor Brewing Company,3.25,3.57,6.3,49,1
+Sapporo Premium Beer,Sapporo Breweries,3.75,3.18,4.9,18,1
+Sawtooth Ale,Left Hand Brewing Company,3.5,3.52,5.3,27,1
+Scenic West,Bow & Arrow Brewing Co.,3.75,3.96,6.5,N/A,1
+Science Juice,WeldWerks Brewing Co.,4.25,4.18,8.1,N/A,1
+SCORCHED MEADOWS - HAZY,HUDL Brewing Company,2.25,3.71,6.8,44,1
+Sculpin,Ballast Point Brewing Company,4,3.96,7,70,1
+Second Summit,Outer Range Brewing Rockies/Alps,4.5,4.15,7.5,N/A,1
+Secret Chat Room,Cerebral Brewing,4,4.03,6.7,N/A,1
+Sendy,Outer Range Brewing Rockies/Alps,4.25,4.17,6.8,N/A,1
+Seven String Strat IPA,Full Sail Brewing Company,3.5,3.8,5.5,45,1
+Seventh Son of A Thirteenth Son,Odd13 Brewing,4.25,4.28,8.5,N/A,1
+Shackmeister Ale,Brooklyn Brewery,3.25,3.41,4.8,N/A,1
+Shane McConkey IPA,Crazy Mountain Brewing Company,3.25,3.58,7,70,1
+Shore Leave,Cerebral Brewing,4.25,4.31,9,N/A,1
+Shred Flintstone,Humble Sea Brewing Company,4,3.99,6.3,N/A,1
+Shrubby,Outer Range Brewing Rockies/Alps,4.25,4.18,7.9,N/A,1
+Simcoe DDH Hop Down,Uhl’s Brewing Co,4,3.9,6.2,N/A,1
+Singha,Boon Rawd Brewery,3.5,3.05,5,20,1
+Single Barrel 18 Month Medianoche,WeldWerks Brewing Co.,4.75,4.5,14.7,N/A,1
+Single By Choice - Citra,New Image Brewing,4.25,3.94,5,N/A,1
+Single By Choice- Centennial,New Image Brewing,3,3.66,5,N/A,1
+Single Hopped Citra Whimsy,4 Noses Brewing Company,4.25,4.09,6.5,30,1
+Singular Focus Azacca,WeldWerks Brewing Co.,3.75,3.89,6.6,N/A,1
+Singular Focus Simcoe,WeldWerks Brewing Co.,3.75,4.05,6.8,N/A,1
+Sip of Sunshine,Lawson's Finest Liquids,4.5,4.32,8,65,1
+Sippin' Tropical Sour,Odell Brewing Co.,3.5,3.54,4.5,N/A,1
+Ski-In-Ski-Stout,Telluride Brewing Company,4.25,3.77,5.8,19,1
+Sky High Rye,Arcadia Brewing Co.,3.5,3.51,6,55,1
+Skypoint IPA,Montana Brewing Company,3,3.53,6.2,69,1
+Slash Turn,High Alpine Brewing Company,3.5,3.88,6.5,50,1
+Slick 6,Gravity Brewing,4,3.76,6.5,69,1
+Snow Bowl TDH,Outer Range Brewing Rockies/Alps,5,4.22,8,N/A,1
+Soaked,Outer Range Brewing Rockies/Alps,4.5,4.35,11,N/A,1
+Sol's Espresso Stout,High Alpine Brewing Company,4,3.84,6,33,1
+Solano,Crystal Springs Brewing Company,3.5,3.65,6,27,1
+Soleil Saison,12Degree Brewing,3.5,3.72,6.5,23,1
+South Ridge Amber Ale,Crystal Springs Brewing Company,3.5,3.53,7.2,31,1
+Space Dust IPA,Elysian Brewing Company,4,3.84,8.2,62,1
+Space Guide,Moonlight Pizza & Brewing,3.25,3.57,5.8,N/A,1
+Space Rex,Fremont Brewing,3.75,3.82,7,N/A,1
+Spiny Shell,WeldWerks Brewing Co.,4.75,4.21,9,N/A,1
+Spotted Cow,New Glarus Brewing Company,4,3.89,4.8,18,1
+Starry Gnar,Gravity Brewing,3.5,3.74,7,25,1
+Stash Panda,Hop Valley Brewing Company,4,3.7,6.5,50,1
+Steel Toe Stout,Ska Brewing,4,3.65,5.4,N/A,1
+Steezy DDH,Outer Range Brewing Rockies/Alps,4.75,4.19,7.2,N/A,1
+Stella Artois,Stella Artois,2.75,3.27,5,24,2
+Stone Delicious IPA,Stone Brewing,3.75,3.72,7.7,75,1
+Stone IPA,Stone Brewing,3.75,3.75,6.9,71,1
+Storm Amber Ale,Newport Craft Brewing Co.,3.25,3.34,5.2,23,1
+Straight From the Lab - NZH-105,Novel Strand Brewing Company,3.75,3.85,5.8,N/A,1
+Strange Cattle,MAP Brewing Company,4,3.98,6.5,60,1
+Stranger in a Strange Land,Fremont Brewing,4.25,4.22,8.5,N/A,1
+STS PILS,Russian River Brewing Company,4.5,3.65,5.3,33,1
+Sudice,FATE Brewing Company,3.75,3.59,7,N/A,1
+Sugar Creek Pale Ale,Sugar Creek Brewing Company,3.75,3.64,5.2,40,1
+Sully,12Degree Brewing,3.5,3.81,5.9,50,1
+Sultana DDH Juicy Bits,WeldWerks Brewing Co.,3.75,4.09,6.7,N/A,1
+Summer Ale,Samuel Adams,3.25,3.41,5.3,8,1
+Summer Starry Noche (2022),WeldWerks Brewing Co.,4.75,4.56,14.6,N/A,1
+Summertime Anytime,Crystal Springs Brewing Company,3.5,3.53,4.9,25,1
+Sun Fade,La Cumbre Brewing Company,4.25,4.04,6.5,40,1
+Sunny Day,Knotted Root Brewing Company,4.5,4.17,6.2,45,1
+Sunshine State FL-Lager,Carib Brewery USA,3.25,3.34,5,22,1
+Super Typhoon,Tree House Brewing Company,4.5,4.4,7.7,N/A,1
+Superfly,Odd13 Brewing,3.75,3.63,5.5,N/A,1
+Superpower IPA,Comrade Brewing Co,4,4.08,7.3,100,1
+Susan Beer Anthony,Odd13 Brewing,4,3.78,5,N/A,1
+Suspended In the Trees,Knotted Root Brewing Company,3.75,4.25,8,76,1
+Sweet Magnolia,Rock Bottom Restaurant & Brewery,4,3.57,5,20,1
+T-Shirt Weather,Trustworthy Brewing Co.,4,3.49,4.8,35,1
+Techno Tomboy,Outer Range Brewing Rockies/Alps,4.25,4.09,7.2,N/A,1
+Techno Tomboy DDH,Outer Range Brewing Rockies/Alps,4.25,4.19,7.2,N/A,1
+Tectonic Event DIPA,Great Basin Brewing Company,4,3.83,8.7,100,1
+Tempter IPA,Telluride Brewing Company,3.5,3.65,6.4,70,1
+Ten FIDY®,Oskar Blues Brewery®,4.5,4.08,10.5,65,1
+Ten Peaks Pale Ale,Canmore Brewing Company,2,3.54,5,33,1
+Thai Style White IPA,Upslope Brewing Company,3.5,3.5,6.5,33,1
+The Colorado Kid,Odd13 Brewing,4.25,3.86,7.2,N/A,1
+The Dean,West Flanders Brewing Co.,4,3.93,9.2,34,1
+The Fog Whisperer,Humble Sea Brewing Company,4.25,4.08,6.9,N/A,1
+The Hazy IPA,Ska Brewing,2,3.78,6.5,35,1
+The IPA Who Stepped Into Yesterday,Station 26 Brewing Co.,4.25,4,7.1,N/A,1
+The League of Extraordinary Hopheads,Odd13 Brewing,5,4.19,8,N/A,1
+The Maharaja,Avery Brewing Co.,4.25,4.03,10,102,1
+The Oswald (Full O’ Hops),Woods Boss Brewing Company,4.5,3.97,7.1,73,1
+The Penske File,Faction Brewing,3.75,3.79,5.8,40,1
+The Publick House,Trillium Brewing Company,4,4.19,7.3,N/A,1
+The Real Peel IPA,Avery Brewing Co.,3.5,3.55,6.3,60,1
+The Reverend,Avery Brewing Co.,4,3.94,10,24,1
+The Walrus,Roadhouse Brewing Company,4,3.95,8.3,45,1
+Thick Haze,Oskar Blues Brewery®,3.5,3.66,7,45,1
+Thin Air,Pikes Peak Brewing Co.,3.25,3.41,4,N/A,1
+Third Eye Pale Ale,Steamworks Brewing,3,3.63,6,65,1
+Third Time’s Ice Cream,Novel Strand Brewing Company,4,4.22,N/A,N/A,1
+THK - Tripel Honey Kriek,De Proefbrouwerij,4,3.7,9.3,N/A,1
+Thunder Meadows IPA,Fernie Brewing Company,3.25,3.69,6.7,40,1
+Thunder Thief,Odd13 Brewing,4.25,3.96,7,N/A,1
+Thunderpeel Hazy IPA,Flying Dog Brewery,3.75,3.72,6.2,35,1
+Tiki Hop Totem,Blue Owl Brewing,4.25,4.01,6.2,56,1
+Timber Giant,Mother Earth Brewing Company,4,3.82,5,N/A,1
+Time Crystal,Cerebral Brewing,4.25,4.05,6.7,N/A,1
+Timmy's Blueberry Belgian,Crystal Springs Brewing Company,3.75,3.72,8.2,29,1
+Tin Sky DDH,Mountains Walking Brewery,4.5,4.07,8,30,1
+Titan,Great Divide Brewing Company,3,3.64,7.1,50,1
+Toasted Almond & Vanilla Night & Day,Trillium Brewing Company,4.5,4.24,12.7,N/A,1
+Tower Station IPA,Mother Road Brewing Company,3.5,3.88,7.3,70,1
+Townie IPA,The Post Brewing Company,3.5,3.6,6.2,52,1
+Traditional Lager,Yuengling Brewery,3.25,3.5,4.5,12,1
+Trail Builder Series - Brut IPA,Eddyline Brewery - USA,3.5,3.61,7.5,N/A,1
+Trail Time IPA,Woods Boss Brewing Company,3,3.67,5.5,N/A,1
+TrailBuilder SMaSH IPA,Eddyline Brewery - USA,3.75,3.58,6.3,60,1
+Traitor IPA,Badger Hill Brewing Company,3,3.78,7,70,1
+Transmountain Diversion,WeldWerks Brewing Co.,5,4.35,8.7,N/A,1
+Treachery,12Degree Brewing,4,3.8,8,21,1
+Trellis Buster,Crooked Stave Artisan Beer Project,4,3.93,8,N/A,1
+Trippel Lutz,West Flanders Brewing Co.,3.75,3.64,7.7,33,1
+Tromping,Outer Range Brewing Rockies/Alps,4.25,4.01,7,N/A,1
+Tropical Mango Pale Ale,St. John Brewers,0.25,3.4,4.5,16,1
+True Blonde Ale,Ska Brewing,3,3.28,5.3,20,1
+Truth,Rhinegeist Brewery,4,3.82,7.2,75,1
+Tsingtao,Tsingtao (青岛啤酒) Brewery,2.75,2.89,4.7,25,1
+Turbo IPA,Crooked Pecker Brewing Co.,4.5,4.2,7.7,N/A,1
+Twilight Peak IPA,Carver Brewing Company,2.5,3.78,6,N/A,1
+Twists And Turns,Old Stove Brewing Co.,4.5,3.96,7,N/A,1
+Two Hearted IPA,Bell's Brewery,3.75,3.95,7,55,1
+Two Juicy,Two Roads Brewing Company,3.75,3.99,8.2,42,1
+Two Pound Tent,Outer Range Brewing Rockies/Alps,4,4.05,9,N/A,1
+UNA FRÍA,Novel Strand Brewing Company,3.75,4.02,4.5,N/A,1
+Uncommon Objects,Zilker Brewing Company,4,4.12,6.8,N/A,1
+Union Jack IPA,Firestone Walker Brewing Company,3.5,3.8,7,70,1
+Unknown Variable,4 Noses Brewing Company,4.25,4.12,7,N/A,1
+Vaccinator Imperial Stout,StrongHouse Brew Pub,3.25,3.7,8,78,1
+Vanilla Porter,Breckenridge Brewery,3.75,3.77,5.4,16,1
+Vanity Plate,Cerebral Brewing,4.25,3.97,7.6,N/A,1
+Vapor Trail IPA,Carver Brewing Company,2.5,3.8,6.75,N/A,1
+"Vega IPA #2: Idaho Gem, Barbe Rouge And Pekko Hops",Ecliptic Brewing,3.5,3.66,6.5,45,1
+Voltage IPA,Mystic Brewery,3.75,3.9,7,N/A,1
+Voodoo Ranger American Haze,New Belgium Brewing Company,3.75,3.65,5,30,1
+Voodoo Ranger Future Hop IPA,New Belgium Brewing Company,3.5,3.73,8,50,1
+Voodoo Ranger IPA,New Belgium Brewing Company,3.5,3.66,7,50,1
+Voodoo Ranger Juicy Haze IPA,New Belgium Brewing Company,3.75,3.78,7.5,42,1
+Voodoo Ranger V2K IPA,New Belgium Brewing Company,3.5,3.87,6.9,19,1
+Vote,Cerebral Brewing,4.5,4.1,7.6,N/A,1
+Wanderlust IPA,Breakside Brewery,3.75,3.9,6.2,64,1
+Watershed IPA,Oakshire Brewing,4,3.64,6.7,70,1
+Waterslides,3 Sheeps Brewing Company,3,3.63,6.7,60,1
+Way Down,Outer Range Brewing Rockies/Alps,4.5,4.19,8.7,N/A,1
+Werking Theory,WeldWerks Brewing Co.,4.75,4.32,8.4,N/A,1
+West Coast IPA,WeldWerks Brewing Co.,4,3.89,7.7,N/A,1
+"West Coast IPA (-2013, 2019-)",Green Flash Brewing Company,3.75,3.84,7,95,1
+West Coast IPA (2014-2018),Green Flash Brewing Company,3.75,3.87,8.1,95,1
+West Coast Juicy,Crooked Stave Artisan Beer Project,4,3.75,6.2,32,1
+Westing,Mystic Brewery,3.25,3.79,7.4,N/A,1
+What Plane?,Trustworthy Brewing Co.,3.75,3.65,5.3,30,1
+What Rough Beast,Breakside Brewery,3.75,4,6.8,55,1
+Wheelie Nelson,Outer Range Brewing Rockies/Alps,4.5,4.25,8.1,N/A,1
+Wheels Up,Cerebral Brewing,4.5,4.04,6.5,N/A,1
+Whimsy,4 Noses Brewing Company,4,3.99,7.1,57,1
+Whipper,Outer Range Brewing Rockies/Alps,4,4.11,6.5,N/A,1
+White Rascal,Avery Brewing Co.,3.25,3.62,5.6,22,1
+Wicked Nebula,Gravity Brewing,4,3.81,6.5,47,1
+Wild Beaver,Deluxe Brewing,3.75,3.56,5.5,15,1
+Willow,Outer Range Brewing Rockies/Alps,4.5,4.21,8.6,N/A,1
+Winter IPA,Peak Organic Brewing Company,3.75,3.43,5,62,1
+Wolf Pup Session IPA,Golden Road Brewing,3.5,3.62,4.5,50,1
+Woody's Salted Chocolate Stout,Crystal Springs Brewing Company,4,3.57,6.7,61,1
+Woolly Bear,Rock Bottom Restaurant & Brewery,4.25,3.57,5.2,35,1
+Work Is Done IPA,Redgarden Restaurant and Brewery,3.75,3.77,6.5,N/A,1
+X-Ray IPA,Soulcraft Brewing,2.75,3.75,7,84,1
+Yakima Fresh,Columbus Brewing Company,4,4.17,7.5,70,1
+Yeti,Great Divide Brewing Company,3.75,3.9,9.5,75,1
+You're Making Me Hazy IPA,Redgarden Restaurant and Brewery,3.5,3.77,7,N/A,1
+Yuppie Hammer,Outlaw Brewing,4,3.9,6.5,41,1
+Zed The Zorcerer,Odd13 Brewing,3.25,3.65,4.3,60,1
