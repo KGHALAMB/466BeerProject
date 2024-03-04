@@ -2,7 +2,8 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-
+import matplotlib
+matplotlib.use('TkAgg')
 
 top_n = 10
 
@@ -66,23 +67,25 @@ def beer_style():
 
     plt.show()
 
+
+def overall_review_distribution():
+    plt.figure(figsize=(10, 8))
+
+    sns.lineplot(y=locations['number_of_reviews'], x=locations['review_overall'], color='#a68268')
+
+    plt.axvline(x=3, color='green', label='axvline - full height')
+    plt.axvline(x=4.25, color='green', label='axvline - full height')
+
+    plt.title('Distribution of Overall Review')
+    plt.xlabel('Overall Review')
+    plt.ylabel('Number of Reviews')
+    plt.show()
+
 # city_counts()
 # city_avg_review()
 # beer_style()
 print("here")
+overall_review_distribution()
 # print(locations.head)
 # locations['Review Count'].value_counts()
 
-
-
-plt.figure(figsize=(10, 8))
-
-sns.lineplot(y=locations['number_of_reviews'], x=locations['review_overall'], color='#a68268')
-
-plt.axvline(x = 3, color = 'green', label = 'axvline - full height')
-plt.axvline(x = 4.25, color = 'green', label = 'axvline - full height')
-
-plt.title('Distribution of Overall Review')
-plt.xlabel('Overall Review')
-plt.ylabel('Number of Reviews')
-plt.show()
