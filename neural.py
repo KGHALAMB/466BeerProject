@@ -7,7 +7,6 @@ from sklearn.preprocessing import StandardScaler
 from sklearn.pipeline import make_pipeline
 from sklearn.model_selection import cross_val_score
 from sklearn.model_selection import GridSearchCV
-
 import matplotlib
 matplotlib.use('TkAgg')  # Choose an appropriate backend, like TkAgg, Qt5Agg, etc.
 import matplotlib.pyplot as plt
@@ -32,7 +31,7 @@ y = filtered_data['good_beer']
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=5)
 
 
-#standardie, model, fit, and predict
+#standardize, model, fit, and predict
 scaler = StandardScaler()
 model = MLPClassifier(solver='adam', random_state=1, max_iter=1000) #lbfgs is better for smaller datasets, but didn't work
 pipeline = make_pipeline(scaler, model) #model scaled
@@ -65,14 +64,14 @@ print(classification_report(y_test, predictions))
 
 #validation
 print("here")
-# cv_scores = cross_val_score(pipeline, X, y, cv=5)  # You can adjust cv=5 to the number of desired folds
-cv_scores = cross_val_score(pipeline, X, y, cv=10)  # You can adjust cv=5 to the number of desired folds
+cv_scores = cross_val_score(pipeline, X, y, cv=5)  # You can adjust cv=5 to the number of desired folds
+# cv_scores = cross_val_score(pipeline, X, y, cv=10)  # You can adjust cv=5 to the number of desired folds
 
 print("Cross-validation Scores:", cv_scores)
 print("Mean CV Accuracy:", cv_scores.mean())
 
 
-
+# confusion matrix visual
 plt.figure(figsize=(8, 6))
 sns.heatmap(cm, annot=True, fmt="d", cmap="Blues", xticklabels=["Bad", "Okay", "Good"], yticklabels=["Bad", "Okay", "Good"])
 plt.xlabel("Predicted Label")

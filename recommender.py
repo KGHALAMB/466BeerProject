@@ -4,6 +4,8 @@ from sklearn.neighbors import NearestNeighbors
 from sklearn.pipeline import make_pipeline
 from sklearn.preprocessing import StandardScaler
 from sklearn.model_selection import train_test_split
+import pandas as pd
+
 import warnings
 warnings.filterwarnings("ignore", message="X does not have valid feature names, but StandardScaler was fitted with feature names", category=UserWarning)
 
@@ -11,17 +13,17 @@ warnings.filterwarnings("ignore", message="X does not have valid feature names, 
 df = pd.read_csv('beer.csv')
 filtered_data = df[df['number_of_reviews'] > 10]
 
-#filter and clean data. 80% train 20% test
+# filter and clean data. 80% train 20% test
 attributes = ['ABV', 'Min IBU', 'Max IBU', 'Astringency', 'Body', 'Alcohol', 'Bitter', 'Sweet', 'Sour', 'Salty', 'Fruits', 'Hoppy', 'Spices', 'Malty']
 X = filtered_data[attributes]
 
-#standardize, model, and fit
+# standardize, model, and fit
 scaler = StandardScaler()
 X_scaled = scaler.fit_transform(X)
 knn_model = NearestNeighbors(n_neighbors=5, algorithm='ball_tree')
 knn_model.fit(X_scaled)
 
-
+# function to scale data, find knearest neighbors, and recurse until 5 new beers (neighbors) are returned
 def recommend_similar_beers(liked_beers, user,  n_neighbors=1):
     liked_beers_scaled = scaler.transform(liked_beers)  #scale
 
@@ -44,15 +46,11 @@ def recommend_similar_beers(liked_beers, user,  n_neighbors=1):
 # add user's ratings to the model's dataframe
 user = pd.read_csv('beerUser1.csv')
 user = user[['Beer Name', 'Their Rating']]
-# print(user)
 
 user['Their Rating'] = user.groupby('Beer Name')['Their Rating'].transform('mean')
 user.drop_duplicates(inplace = True)
 user['Their Rating'] = sorted(user['Their Rating'], reverse=True)
 user = user[['Beer Name', 'Their Rating']]
-# user = user[user['Their Rating'] > 4]
-# print(user)
-attributes2 = ['ABV', 'Min IBU', 'Max IBU', 'Astringency', 'Body', 'Alcohol', 'Bitter', 'Sweet', 'Sour', 'Salty', 'Fruits', 'Hoppy', 'Spices', 'Malty', 'Their Rating']
 
 merged_df = filtered_data.merge(user, left_on='Name', right_on='Beer Name', how='left')
 merged_df.drop_duplicates(inplace = True)
@@ -63,11 +61,10 @@ print("Your top 2 beers are: \n", merged_df[['Name', 'number_of_reviews', 'revie
 
 liked_beers = merged_df[attributes].values
 
-
-
 recommended_beers = recommend_similar_beers(liked_beers, user)
-import pandas as pd
 
+
+#map reviews to perform custom number to sort recommendations
 def map_reviews(input):
     r = 1
     if input > 1000:
@@ -87,7 +84,7 @@ new_reviews = recommended_beers['number_of_reviews'].apply(map_reviews)
 new_reviews = pd.DataFrame({'Score': new_reviews})
 recommended_beers['Score'] = new_reviews['Score']
 
-#I did the F1 calculation
+#Perform F1 algorithm with overall review and total reviews
 new_ratings = (recommended_beers['Score'] * recommended_beers['review_overall']) / (recommended_beers['Score'] + recommended_beers['review_overall'])
 
 # Assign the new ratings to the 'new' column
