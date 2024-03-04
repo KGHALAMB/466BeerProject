@@ -1,0 +1,18 @@
+Code is organized as follows:
+
+Visuals:
+- Visuals folder includes graphical outputs
+- visualizations.py is code for general bar graphs and geographical bar graphs
+
+Datasets:
+- beer.csv is the original dataset from Kaggle
+- beer_with_locations.csv is the original dataset with added columns for locations
+- beerUser1.csv is the input data for beer recommendation model
+
+Models:
+- decisionTree.py is code for decision tree and uses cleanData.py
+- neural.py is code for neural network model
+- recommender.py is code for k-means recommendation model
+- datascrape.py, kmeans_countries.py, kmeans_USA.py, and requirements.txt are for geographical model
+
+
